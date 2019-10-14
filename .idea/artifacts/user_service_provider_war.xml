@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="user-service-provider:war">
+    <output-path>$PROJECT_DIR$/user-service-provider/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>user-service-provider</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="user-service-provider-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="user-service-provider:war exploded" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="gmall-interface:war">
+    <output-path>$PROJECT_DIR$/gmall-interface/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>gmall-interface</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="gmall-interface-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="gmall-interface:war exploded" />
+    </root>
+  </artifact>
+</component>
