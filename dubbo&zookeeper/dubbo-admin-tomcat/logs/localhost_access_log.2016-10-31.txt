@@ -1,0 +1,11 @@
+127.0.0.1 - - [31/Oct/2016:20:20:08 +0800] "GET /shopcart HTTP/1.1" 404 979
+127.0.0.1 - - [31/Oct/2016:20:20:08 +0800] "GET /favicon.ico HTTP/1.1" 404 988
+127.0.0.1 - - [31/Oct/2016:20:20:12 +0800] "GET /shopcar HTTP/1.1" 404 976
+127.0.0.1 - - [31/Oct/2016:20:20:16 +0800] "GET /myshopcar HTTP/1.1" 302 -
+127.0.0.1 - - [31/Oct/2016:20:20:16 +0800] "GET /myshopcar/ HTTP/1.1" 200 1219
+127.0.0.1 - - [31/Oct/2016:20:20:46 +0800] "GET /myshopcar/ListBook?currentPage=1 HTTP/1.1" 200 1888
+127.0.0.1 - - [31/Oct/2016:20:20:58 +0800] "GET /myshopcar/ListBook?currentPage=1 HTTP/1.1" 200 1888
+127.0.0.1 - - [31/Oct/2016:20:21:00 +0800] "GET /myshopcar/BuyBook?id=1 HTTP/1.1" 302 -
+127.0.0.1 - - [31/Oct/2016:20:21:00 +0800] "GET /myshopcar/view/buybook.jsp HTTP/1.1" 200 1957
+127.0.0.1 - - [31/Oct/2016:20:21:42 +0800] "GET /myshopcar/BuyBook?id=1 HTTP/1.1" 302 -
+127.0.0.1 - - [31/Oct/2016:20:21:42 +0800] "GET /myshopcar/view/buybook.jsp HTTP/1.1" 200 1958

@@ -1,0 +1,16 @@
+四月 12, 2017 10:16:02 上午 org.apache.catalina.core.AprLifecycleListener init
+信息: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: E:\Program Files\JavaHome\jdk1.7.0_51\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;E:\Program Files\JavaHome\jdk1.7.0_51\bin;C:\Program Files\TortoiseSVN\bin;E:\Program Files\mysql-5.6.24-winx64\bin;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;%USERPROFILE%\AppData\Local\Microsoft\WindowsApps;;.
+四月 12, 2017 10:16:02 上午 org.apache.coyote.AbstractProtocol init
+信息: Initializing ProtocolHandler ["http-bio-9090"]
+四月 12, 2017 10:16:02 上午 org.apache.coyote.AbstractProtocol init
+信息: Initializing ProtocolHandler ["ajp-bio-8009"]
+四月 12, 2017 10:16:02 上午 org.apache.catalina.startup.Catalina load
+信息: Initialization processed in 802 ms
+四月 12, 2017 10:16:02 上午 org.apache.catalina.core.StandardService startInternal
+信息: Starting service Catalina
+四月 12, 2017 10:16:02 上午 org.apache.catalina.core.StandardEngine startInternal
+信息: Starting Servlet Engine: Apache Tomcat/7.0.28
+四月 12, 2017 10:16:02 上午 org.apache.catalina.startup.HostConfig deployWAR
+信息: Deploying web application archive F:\my_tool\tomcat-7_test\webapps\xmg-shop-server-1.0.war
+四月 12, 2017 10:16:03 上午 org.apache.catalina.loader.WebappClassLoader validateJarFile
+信息: validateJarFile(F:\my_tool\tomcat-7_test\webapps\xmg-shop-server-1.0\WEB-INF\lib\servlet-api-2.5.jar) - jar not loaded. See Servlet Spec 2.3, section 9.7.2. Offending class: javax/servlet/Servlet.class

@@ -1,0 +1,372 @@
+7834534 DEBUG [2015-06-16 17:46:04]  result row: EntityKey[com.tisson.dao.entity.product.Brand#84]
+7834535 DEBUG [2015-06-16 17:46:04]  result row: EntityKey[com.tisson.dao.entity.product.Brand#85]
+7834535 DEBUG [2015-06-16 17:46:04]  result row: EntityKey[com.tisson.dao.entity.product.Brand#174]
+7834535 DEBUG [2015-06-16 17:46:04]  result row: EntityKey[com.tisson.dao.entity.product.Brand#87]
+7834535 DEBUG [2015-06-16 17:46:04]  result row: EntityKey[com.tisson.dao.entity.product.Brand#88]
+7834536 DEBUG [2015-06-16 17:46:04]  result row: EntityKey[com.tisson.dao.entity.product.Brand#176]
+7834536 DEBUG [2015-06-16 17:46:04]  result row: EntityKey[com.tisson.dao.entity.product.Brand#91]
+7834536 DEBUG [2015-06-16 17:46:04]  result row: EntityKey[com.tisson.dao.entity.product.Brand#92]
+7834536 DEBUG [2015-06-16 17:46:04]  result row: EntityKey[com.tisson.dao.entity.product.Brand#93]
+7834536 DEBUG [2015-06-16 17:46:04]  result row: EntityKey[com.tisson.dao.entity.product.Brand#94]
+7834536 DEBUG [2015-06-16 17:46:04]  result row: EntityKey[com.tisson.dao.entity.product.Brand#177]
+7834537 DEBUG [2015-06-16 17:46:04]  result row: EntityKey[com.tisson.dao.entity.product.Brand#96]
+7834537 DEBUG [2015-06-16 17:46:04]  result row: EntityKey[com.tisson.dao.entity.product.Brand#97]
+7834537 DEBUG [2015-06-16 17:46:04]  result row: EntityKey[com.tisson.dao.entity.product.Brand#98]
+7834537 DEBUG [2015-06-16 17:46:04]  result row: EntityKey[com.tisson.dao.entity.product.Brand#102]
+7834537 DEBUG [2015-06-16 17:46:04]  result row: EntityKey[com.tisson.dao.entity.product.Brand#160]
+7834538 DEBUG [2015-06-16 17:46:04]  result row: EntityKey[com.tisson.dao.entity.product.Brand#157]
+7834538 DEBUG [2015-06-16 17:46:04]  result row: EntityKey[com.tisson.dao.entity.product.Brand#105]
+7834538 DEBUG [2015-06-16 17:46:04]  result row: EntityKey[com.tisson.dao.entity.product.Brand#106]
+7834538 DEBUG [2015-06-16 17:46:04]  result row: EntityKey[com.tisson.dao.entity.product.Brand#110]
+7834538 DEBUG [2015-06-16 17:46:04]  result row: EntityKey[com.tisson.dao.entity.product.Brand#112]
+7834538 DEBUG [2015-06-16 17:46:04]  result row: EntityKey[com.tisson.dao.entity.product.Brand#113]
+7834539 DEBUG [2015-06-16 17:46:04]  result row: EntityKey[com.tisson.dao.entity.product.Brand#159]
+7834539 DEBUG [2015-06-16 17:46:04]  result row: EntityKey[com.tisson.dao.entity.product.Brand#175]
+7834539 DEBUG [2015-06-16 17:46:04]  result row: EntityKey[com.tisson.dao.entity.product.Brand#116]
+7834539 DEBUG [2015-06-16 17:46:04]  result row: EntityKey[com.tisson.dao.entity.product.Brand#153]
+7834539 DEBUG [2015-06-16 17:46:04]  result row: EntityKey[com.tisson.dao.entity.product.Brand#154]
+7834540 DEBUG [2015-06-16 17:46:04]  result row: EntityKey[com.tisson.dao.entity.product.Brand#144]
+7834540 DEBUG [2015-06-16 17:46:04]  result row: EntityKey[com.tisson.dao.entity.product.Brand#124]
+7834540 DEBUG [2015-06-16 17:46:04]  result row: EntityKey[com.tisson.dao.entity.product.Brand#125]
+7834540 DEBUG [2015-06-16 17:46:04]  result row: EntityKey[com.tisson.dao.entity.product.Brand#126]
+7834540 DEBUG [2015-06-16 17:46:04]  result row: EntityKey[com.tisson.dao.entity.product.Brand#127]
+7834541 DEBUG [2015-06-16 17:46:04]  result row: EntityKey[com.tisson.dao.entity.product.Brand#130]
+7834541 DEBUG [2015-06-16 17:46:04]  result row: EntityKey[com.tisson.dao.entity.product.Brand#132]
+7834541 DEBUG [2015-06-16 17:46:04]  result row: EntityKey[com.tisson.dao.entity.product.Brand#133]
+7834541 DEBUG [2015-06-16 17:46:04]  result row: EntityKey[com.tisson.dao.entity.product.Brand#134]
+7834541 DEBUG [2015-06-16 17:46:04]  result row: EntityKey[com.tisson.dao.entity.product.Brand#135]
+7834542 DEBUG [2015-06-16 17:46:04]  result row: EntityKey[com.tisson.dao.entity.product.Brand#136]
+7834542 DEBUG [2015-06-16 17:46:04]  result row: EntityKey[com.tisson.dao.entity.product.Brand#143]
+7834542 DEBUG [2015-06-16 17:46:04]  result row: EntityKey[com.tisson.dao.entity.product.Brand#138]
+7834542 DEBUG [2015-06-16 17:46:04]  result row: EntityKey[com.tisson.dao.entity.product.Brand#165]
+7834542 DEBUG [2015-06-16 17:46:04]  result row: EntityKey[com.tisson.dao.entity.product.Brand#140]
+7834542 DEBUG [2015-06-16 17:46:04]  result row: EntityKey[com.tisson.dao.entity.product.Brand#145]
+7834543 DEBUG [2015-06-16 17:46:04]  result row: EntityKey[com.tisson.dao.entity.product.Brand#146]
+7834543 DEBUG [2015-06-16 17:46:04]  result row: EntityKey[com.tisson.dao.entity.product.Brand#148]
+7834543 DEBUG [2015-06-16 17:46:04]  result row: EntityKey[com.tisson.dao.entity.product.Brand#149]
+7834543 DEBUG [2015-06-16 17:46:04]  result row: EntityKey[com.tisson.dao.entity.product.Brand#150]
+7834543 DEBUG [2015-06-16 17:46:04]  result row: EntityKey[com.tisson.dao.entity.product.Brand#151]
+7834544 DEBUG [2015-06-16 17:46:04]  result row: EntityKey[com.tisson.dao.entity.product.Brand#152]
+7834544 DEBUG [2015-06-16 17:46:04]  result row: EntityKey[com.tisson.dao.entity.product.Brand#155]
+7834544 DEBUG [2015-06-16 17:46:04]  result row: EntityKey[com.tisson.dao.entity.product.Brand#156]
+7834544 DEBUG [2015-06-16 17:46:04]  result row: EntityKey[com.tisson.dao.entity.product.Brand#161]
+7834544 DEBUG [2015-06-16 17:46:04]  result row: EntityKey[com.tisson.dao.entity.product.Brand#162]
+7834544 DEBUG [2015-06-16 17:46:04]  result row: EntityKey[com.tisson.dao.entity.product.Brand#164]
+7834545 DEBUG [2015-06-16 17:46:04]  result row: EntityKey[com.tisson.dao.entity.product.Brand#163]
+7834545 DEBUG [2015-06-16 17:46:04]  result row: EntityKey[com.tisson.dao.entity.product.Brand#178]
+7834545 DEBUG [2015-06-16 17:46:04]  result row: EntityKey[com.tisson.dao.entity.product.Brand#179]
+7834545 DEBUG [2015-06-16 17:46:04]  result row: EntityKey[com.tisson.dao.entity.product.Brand#180]
+7834545 DEBUG [2015-06-16 17:46:04]  result row: EntityKey[com.tisson.dao.entity.product.Brand#181]
+7834545 DEBUG [2015-06-16 17:46:04]  result row: EntityKey[com.tisson.dao.entity.product.Brand#182]
+7834546 DEBUG [2015-06-16 17:46:04]  about to close ResultSet (open ResultSets: 1, globally: 1)
+7834546 DEBUG [2015-06-16 17:46:04]  about to close PreparedStatement (open PreparedStatements: 1, globally: 1)
+7834546 DEBUG [2015-06-16 17:46:04]  aggressively releasing JDBC connection
+7834546 DEBUG [2015-06-16 17:46:04]  releasing JDBC connection [ (open PreparedStatements: 0, globally: 0) (open ResultSets: 0, globally: 0)]
+7834546 DEBUG [2015-06-16 17:46:04]  000522 (00/03/00) - Connection #9 returned (now AVAILABLE)
+7834546 DEBUG [2015-06-16 17:46:04]  resolving associations for [com.tisson.dao.entity.product.Brand#55]
+7834546 DEBUG [2015-06-16 17:46:04]  done materializing entity [com.tisson.dao.entity.product.Brand#55]
+7834546 DEBUG [2015-06-16 17:46:04]  resolving associations for [com.tisson.dao.entity.product.Brand#56]
+7834546 DEBUG [2015-06-16 17:46:04]  done materializing entity [com.tisson.dao.entity.product.Brand#56]
+7834546 DEBUG [2015-06-16 17:46:04]  resolving associations for [com.tisson.dao.entity.product.Brand#57]
+7834546 DEBUG [2015-06-16 17:46:04]  done materializing entity [com.tisson.dao.entity.product.Brand#57]
+7834546 DEBUG [2015-06-16 17:46:04]  resolving associations for [com.tisson.dao.entity.product.Brand#58]
+7834546 DEBUG [2015-06-16 17:46:04]  done materializing entity [com.tisson.dao.entity.product.Brand#58]
+7834546 DEBUG [2015-06-16 17:46:04]  resolving associations for [com.tisson.dao.entity.product.Brand#60]
+7834546 DEBUG [2015-06-16 17:46:04]  done materializing entity [com.tisson.dao.entity.product.Brand#60]
+7834547 DEBUG [2015-06-16 17:46:04]  resolving associations for [com.tisson.dao.entity.product.Brand#59]
+7834547 DEBUG [2015-06-16 17:46:04]  done materializing entity [com.tisson.dao.entity.product.Brand#59]
+7834547 DEBUG [2015-06-16 17:46:04]  resolving associations for [com.tisson.dao.entity.product.Brand#166]
+7834547 DEBUG [2015-06-16 17:46:04]  done materializing entity [com.tisson.dao.entity.product.Brand#166]
+7834547 DEBUG [2015-06-16 17:46:04]  resolving associations for [com.tisson.dao.entity.product.Brand#167]
+7834547 DEBUG [2015-06-16 17:46:04]  done materializing entity [com.tisson.dao.entity.product.Brand#167]
+7834547 DEBUG [2015-06-16 17:46:04]  resolving associations for [com.tisson.dao.entity.product.Brand#168]
+7834547 DEBUG [2015-06-16 17:46:04]  done materializing entity [com.tisson.dao.entity.product.Brand#168]
+7834547 DEBUG [2015-06-16 17:46:04]  resolving associations for [com.tisson.dao.entity.product.Brand#169]
+7834547 DEBUG [2015-06-16 17:46:04]  done materializing entity [com.tisson.dao.entity.product.Brand#169]
+7834547 DEBUG [2015-06-16 17:46:04]  resolving associations for [com.tisson.dao.entity.product.Brand#67]
+7834547 DEBUG [2015-06-16 17:46:04]  done materializing entity [com.tisson.dao.entity.product.Brand#67]
+7834547 DEBUG [2015-06-16 17:46:04]  resolving associations for [com.tisson.dao.entity.product.Brand#170]
+7834548 DEBUG [2015-06-16 17:46:04]  done materializing entity [com.tisson.dao.entity.product.Brand#170]
+7834548 DEBUG [2015-06-16 17:46:04]  resolving associations for [com.tisson.dao.entity.product.Brand#171]
+7834548 DEBUG [2015-06-16 17:46:04]  done materializing entity [com.tisson.dao.entity.product.Brand#171]
+7834548 DEBUG [2015-06-16 17:46:04]  resolving associations for [com.tisson.dao.entity.product.Brand#73]
+7834548 DEBUG [2015-06-16 17:46:04]  done materializing entity [com.tisson.dao.entity.product.Brand#73]
+7834548 DEBUG [2015-06-16 17:46:04]  resolving associations for [com.tisson.dao.entity.product.Brand#172]
+7834548 DEBUG [2015-06-16 17:46:04]  done materializing entity [com.tisson.dao.entity.product.Brand#172]
+7834548 DEBUG [2015-06-16 17:46:04]  resolving associations for [com.tisson.dao.entity.product.Brand#76]
+7834548 DEBUG [2015-06-16 17:46:04]  done materializing entity [com.tisson.dao.entity.product.Brand#76]
+7834548 DEBUG [2015-06-16 17:46:04]  resolving associations for [com.tisson.dao.entity.product.Brand#77]
+7834548 DEBUG [2015-06-16 17:46:04]  done materializing entity [com.tisson.dao.entity.product.Brand#77]
+7834548 DEBUG [2015-06-16 17:46:04]  resolving associations for [com.tisson.dao.entity.product.Brand#78]
+7834548 DEBUG [2015-06-16 17:46:04]  done materializing entity [com.tisson.dao.entity.product.Brand#78]
+7834548 DEBUG [2015-06-16 17:46:04]  resolving associations for [com.tisson.dao.entity.product.Brand#79]
+7834548 DEBUG [2015-06-16 17:46:04]  done materializing entity [com.tisson.dao.entity.product.Brand#79]
+7834548 DEBUG [2015-06-16 17:46:04]  resolving associations for [com.tisson.dao.entity.product.Brand#173]
+7834548 DEBUG [2015-06-16 17:46:04]  done materializing entity [com.tisson.dao.entity.product.Brand#173]
+7834548 DEBUG [2015-06-16 17:46:04]  resolving associations for [com.tisson.dao.entity.product.Brand#81]
+7834548 DEBUG [2015-06-16 17:46:04]  done materializing entity [com.tisson.dao.entity.product.Brand#81]
+7834549 DEBUG [2015-06-16 17:46:04]  resolving associations for [com.tisson.dao.entity.product.Brand#82]
+7834549 DEBUG [2015-06-16 17:46:04]  done materializing entity [com.tisson.dao.entity.product.Brand#82]
+7834549 DEBUG [2015-06-16 17:46:04]  resolving associations for [com.tisson.dao.entity.product.Brand#158]
+7834549 DEBUG [2015-06-16 17:46:04]  done materializing entity [com.tisson.dao.entity.product.Brand#158]
+7834549 DEBUG [2015-06-16 17:46:04]  resolving associations for [com.tisson.dao.entity.product.Brand#84]
+7834549 DEBUG [2015-06-16 17:46:04]  done materializing entity [com.tisson.dao.entity.product.Brand#84]
+7834549 DEBUG [2015-06-16 17:46:04]  resolving associations for [com.tisson.dao.entity.product.Brand#85]
+7834549 DEBUG [2015-06-16 17:46:04]  done materializing entity [com.tisson.dao.entity.product.Brand#85]
+7834549 DEBUG [2015-06-16 17:46:04]  resolving associations for [com.tisson.dao.entity.product.Brand#174]
+7834549 DEBUG [2015-06-16 17:46:04]  done materializing entity [com.tisson.dao.entity.product.Brand#174]
+7834549 DEBUG [2015-06-16 17:46:04]  resolving associations for [com.tisson.dao.entity.product.Brand#87]
+7834549 DEBUG [2015-06-16 17:46:04]  done materializing entity [com.tisson.dao.entity.product.Brand#87]
+7834549 DEBUG [2015-06-16 17:46:04]  resolving associations for [com.tisson.dao.entity.product.Brand#88]
+7834549 DEBUG [2015-06-16 17:46:04]  done materializing entity [com.tisson.dao.entity.product.Brand#88]
+7834549 DEBUG [2015-06-16 17:46:04]  resolving associations for [com.tisson.dao.entity.product.Brand#176]
+7834549 DEBUG [2015-06-16 17:46:04]  done materializing entity [com.tisson.dao.entity.product.Brand#176]
+7834549 DEBUG [2015-06-16 17:46:04]  resolving associations for [com.tisson.dao.entity.product.Brand#91]
+7834549 DEBUG [2015-06-16 17:46:04]  done materializing entity [com.tisson.dao.entity.product.Brand#91]
+7834550 DEBUG [2015-06-16 17:46:04]  resolving associations for [com.tisson.dao.entity.product.Brand#92]
+7834550 DEBUG [2015-06-16 17:46:04]  done materializing entity [com.tisson.dao.entity.product.Brand#92]
+7834550 DEBUG [2015-06-16 17:46:04]  resolving associations for [com.tisson.dao.entity.product.Brand#93]
+7834550 DEBUG [2015-06-16 17:46:04]  done materializing entity [com.tisson.dao.entity.product.Brand#93]
+7834550 DEBUG [2015-06-16 17:46:04]  resolving associations for [com.tisson.dao.entity.product.Brand#94]
+7834550 DEBUG [2015-06-16 17:46:04]  done materializing entity [com.tisson.dao.entity.product.Brand#94]
+7834550 DEBUG [2015-06-16 17:46:04]  resolving associations for [com.tisson.dao.entity.product.Brand#177]
+7834550 DEBUG [2015-06-16 17:46:04]  done materializing entity [com.tisson.dao.entity.product.Brand#177]
+7834550 DEBUG [2015-06-16 17:46:04]  resolving associations for [com.tisson.dao.entity.product.Brand#96]
+7834550 DEBUG [2015-06-16 17:46:04]  done materializing entity [com.tisson.dao.entity.product.Brand#96]
+7834550 DEBUG [2015-06-16 17:46:04]  resolving associations for [com.tisson.dao.entity.product.Brand#97]
+7834550 DEBUG [2015-06-16 17:46:04]  done materializing entity [com.tisson.dao.entity.product.Brand#97]
+7834550 DEBUG [2015-06-16 17:46:04]  resolving associations for [com.tisson.dao.entity.product.Brand#98]
+7834550 DEBUG [2015-06-16 17:46:04]  done materializing entity [com.tisson.dao.entity.product.Brand#98]
+7834550 DEBUG [2015-06-16 17:46:04]  resolving associations for [com.tisson.dao.entity.product.Brand#102]
+7834550 DEBUG [2015-06-16 17:46:04]  done materializing entity [com.tisson.dao.entity.product.Brand#102]
+7834551 DEBUG [2015-06-16 17:46:04]  resolving associations for [com.tisson.dao.entity.product.Brand#160]
+7834551 DEBUG [2015-06-16 17:46:04]  done materializing entity [com.tisson.dao.entity.product.Brand#160]
+7834551 DEBUG [2015-06-16 17:46:04]  resolving associations for [com.tisson.dao.entity.product.Brand#157]
+7834551 DEBUG [2015-06-16 17:46:04]  done materializing entity [com.tisson.dao.entity.product.Brand#157]
+7834551 DEBUG [2015-06-16 17:46:04]  resolving associations for [com.tisson.dao.entity.product.Brand#105]
+7834551 DEBUG [2015-06-16 17:46:04]  done materializing entity [com.tisson.dao.entity.product.Brand#105]
+7834551 DEBUG [2015-06-16 17:46:04]  resolving associations for [com.tisson.dao.entity.product.Brand#106]
+7834551 DEBUG [2015-06-16 17:46:04]  done materializing entity [com.tisson.dao.entity.product.Brand#106]
+7834551 DEBUG [2015-06-16 17:46:04]  resolving associations for [com.tisson.dao.entity.product.Brand#110]
+7834551 DEBUG [2015-06-16 17:46:04]  done materializing entity [com.tisson.dao.entity.product.Brand#110]
+7834551 DEBUG [2015-06-16 17:46:04]  resolving associations for [com.tisson.dao.entity.product.Brand#112]
+7834551 DEBUG [2015-06-16 17:46:04]  done materializing entity [com.tisson.dao.entity.product.Brand#112]
+7834551 DEBUG [2015-06-16 17:46:04]  resolving associations for [com.tisson.dao.entity.product.Brand#113]
+7834551 DEBUG [2015-06-16 17:46:04]  done materializing entity [com.tisson.dao.entity.product.Brand#113]
+7834551 DEBUG [2015-06-16 17:46:04]  resolving associations for [com.tisson.dao.entity.product.Brand#159]
+7834551 DEBUG [2015-06-16 17:46:04]  done materializing entity [com.tisson.dao.entity.product.Brand#159]
+7834551 DEBUG [2015-06-16 17:46:04]  resolving associations for [com.tisson.dao.entity.product.Brand#175]
+7834551 DEBUG [2015-06-16 17:46:04]  done materializing entity [com.tisson.dao.entity.product.Brand#175]
+7834552 DEBUG [2015-06-16 17:46:04]  resolving associations for [com.tisson.dao.entity.product.Brand#116]
+7834552 DEBUG [2015-06-16 17:46:04]  done materializing entity [com.tisson.dao.entity.product.Brand#116]
+7834552 DEBUG [2015-06-16 17:46:04]  resolving associations for [com.tisson.dao.entity.product.Brand#153]
+7834552 DEBUG [2015-06-16 17:46:04]  done materializing entity [com.tisson.dao.entity.product.Brand#153]
+7834552 DEBUG [2015-06-16 17:46:04]  resolving associations for [com.tisson.dao.entity.product.Brand#154]
+7834552 DEBUG [2015-06-16 17:46:04]  done materializing entity [com.tisson.dao.entity.product.Brand#154]
+7834552 DEBUG [2015-06-16 17:46:04]  resolving associations for [com.tisson.dao.entity.product.Brand#144]
+7834552 DEBUG [2015-06-16 17:46:04]  done materializing entity [com.tisson.dao.entity.product.Brand#144]
+7834552 DEBUG [2015-06-16 17:46:04]  resolving associations for [com.tisson.dao.entity.product.Brand#124]
+7834552 DEBUG [2015-06-16 17:46:04]  done materializing entity [com.tisson.dao.entity.product.Brand#124]
+7834552 DEBUG [2015-06-16 17:46:04]  resolving associations for [com.tisson.dao.entity.product.Brand#125]
+7834552 DEBUG [2015-06-16 17:46:04]  done materializing entity [com.tisson.dao.entity.product.Brand#125]
+7834552 DEBUG [2015-06-16 17:46:04]  resolving associations for [com.tisson.dao.entity.product.Brand#126]
+7834552 DEBUG [2015-06-16 17:46:04]  done materializing entity [com.tisson.dao.entity.product.Brand#126]
+7834552 DEBUG [2015-06-16 17:46:04]  resolving associations for [com.tisson.dao.entity.product.Brand#127]
+7834552 DEBUG [2015-06-16 17:46:04]  done materializing entity [com.tisson.dao.entity.product.Brand#127]
+7834552 DEBUG [2015-06-16 17:46:04]  resolving associations for [com.tisson.dao.entity.product.Brand#130]
+7834552 DEBUG [2015-06-16 17:46:04]  done materializing entity [com.tisson.dao.entity.product.Brand#130]
+7834552 DEBUG [2015-06-16 17:46:04]  resolving associations for [com.tisson.dao.entity.product.Brand#132]
+7834552 DEBUG [2015-06-16 17:46:04]  done materializing entity [com.tisson.dao.entity.product.Brand#132]
+7834552 DEBUG [2015-06-16 17:46:04]  resolving associations for [com.tisson.dao.entity.product.Brand#133]
+7834552 DEBUG [2015-06-16 17:46:04]  done materializing entity [com.tisson.dao.entity.product.Brand#133]
+7834552 DEBUG [2015-06-16 17:46:04]  resolving associations for [com.tisson.dao.entity.product.Brand#134]
+7834553 DEBUG [2015-06-16 17:46:04]  done materializing entity [com.tisson.dao.entity.product.Brand#134]
+7834553 DEBUG [2015-06-16 17:46:04]  resolving associations for [com.tisson.dao.entity.product.Brand#135]
+7834553 DEBUG [2015-06-16 17:46:04]  done materializing entity [com.tisson.dao.entity.product.Brand#135]
+7834553 DEBUG [2015-06-16 17:46:04]  resolving associations for [com.tisson.dao.entity.product.Brand#136]
+7834553 DEBUG [2015-06-16 17:46:04]  done materializing entity [com.tisson.dao.entity.product.Brand#136]
+7834553 DEBUG [2015-06-16 17:46:04]  resolving associations for [com.tisson.dao.entity.product.Brand#143]
+7834553 DEBUG [2015-06-16 17:46:04]  done materializing entity [com.tisson.dao.entity.product.Brand#143]
+7834553 DEBUG [2015-06-16 17:46:04]  resolving associations for [com.tisson.dao.entity.product.Brand#138]
+7834553 DEBUG [2015-06-16 17:46:04]  done materializing entity [com.tisson.dao.entity.product.Brand#138]
+7834553 DEBUG [2015-06-16 17:46:04]  resolving associations for [com.tisson.dao.entity.product.Brand#165]
+7834553 DEBUG [2015-06-16 17:46:04]  done materializing entity [com.tisson.dao.entity.product.Brand#165]
+7834553 DEBUG [2015-06-16 17:46:04]  resolving associations for [com.tisson.dao.entity.product.Brand#140]
+7834553 DEBUG [2015-06-16 17:46:04]  done materializing entity [com.tisson.dao.entity.product.Brand#140]
+7834553 DEBUG [2015-06-16 17:46:04]  resolving associations for [com.tisson.dao.entity.product.Brand#145]
+7834553 DEBUG [2015-06-16 17:46:04]  done materializing entity [com.tisson.dao.entity.product.Brand#145]
+7834553 DEBUG [2015-06-16 17:46:04]  resolving associations for [com.tisson.dao.entity.product.Brand#146]
+7834553 DEBUG [2015-06-16 17:46:04]  done materializing entity [com.tisson.dao.entity.product.Brand#146]
+7834553 DEBUG [2015-06-16 17:46:04]  resolving associations for [com.tisson.dao.entity.product.Brand#148]
+7834553 DEBUG [2015-06-16 17:46:04]  done materializing entity [com.tisson.dao.entity.product.Brand#148]
+7834553 DEBUG [2015-06-16 17:46:04]  resolving associations for [com.tisson.dao.entity.product.Brand#149]
+7834553 DEBUG [2015-06-16 17:46:04]  done materializing entity [com.tisson.dao.entity.product.Brand#149]
+7834553 DEBUG [2015-06-16 17:46:04]  resolving associations for [com.tisson.dao.entity.product.Brand#150]
+7834553 DEBUG [2015-06-16 17:46:04]  done materializing entity [com.tisson.dao.entity.product.Brand#150]
+7834553 DEBUG [2015-06-16 17:46:04]  resolving associations for [com.tisson.dao.entity.product.Brand#151]
+7834553 DEBUG [2015-06-16 17:46:04]  done materializing entity [com.tisson.dao.entity.product.Brand#151]
+7834553 DEBUG [2015-06-16 17:46:04]  resolving associations for [com.tisson.dao.entity.product.Brand#152]
+7834554 DEBUG [2015-06-16 17:46:04]  done materializing entity [com.tisson.dao.entity.product.Brand#152]
+7834554 DEBUG [2015-06-16 17:46:04]  resolving associations for [com.tisson.dao.entity.product.Brand#155]
+7834554 DEBUG [2015-06-16 17:46:04]  done materializing entity [com.tisson.dao.entity.product.Brand#155]
+7834554 DEBUG [2015-06-16 17:46:04]  resolving associations for [com.tisson.dao.entity.product.Brand#156]
+7834554 DEBUG [2015-06-16 17:46:04]  done materializing entity [com.tisson.dao.entity.product.Brand#156]
+7834554 DEBUG [2015-06-16 17:46:04]  resolving associations for [com.tisson.dao.entity.product.Brand#161]
+7834554 DEBUG [2015-06-16 17:46:04]  done materializing entity [com.tisson.dao.entity.product.Brand#161]
+7834554 DEBUG [2015-06-16 17:46:04]  resolving associations for [com.tisson.dao.entity.product.Brand#162]
+7834554 DEBUG [2015-06-16 17:46:04]  done materializing entity [com.tisson.dao.entity.product.Brand#162]
+7834554 DEBUG [2015-06-16 17:46:04]  resolving associations for [com.tisson.dao.entity.product.Brand#164]
+7834554 DEBUG [2015-06-16 17:46:04]  done materializing entity [com.tisson.dao.entity.product.Brand#164]
+7834554 DEBUG [2015-06-16 17:46:04]  resolving associations for [com.tisson.dao.entity.product.Brand#163]
+7834554 DEBUG [2015-06-16 17:46:04]  done materializing entity [com.tisson.dao.entity.product.Brand#163]
+7834554 DEBUG [2015-06-16 17:46:04]  resolving associations for [com.tisson.dao.entity.product.Brand#178]
+7834554 DEBUG [2015-06-16 17:46:04]  done materializing entity [com.tisson.dao.entity.product.Brand#178]
+7834554 DEBUG [2015-06-16 17:46:04]  resolving associations for [com.tisson.dao.entity.product.Brand#179]
+7834554 DEBUG [2015-06-16 17:46:04]  done materializing entity [com.tisson.dao.entity.product.Brand#179]
+7834554 DEBUG [2015-06-16 17:46:04]  resolving associations for [com.tisson.dao.entity.product.Brand#180]
+7834554 DEBUG [2015-06-16 17:46:04]  done materializing entity [com.tisson.dao.entity.product.Brand#180]
+7834554 DEBUG [2015-06-16 17:46:04]  resolving associations for [com.tisson.dao.entity.product.Brand#181]
+7834554 DEBUG [2015-06-16 17:46:04]  done materializing entity [com.tisson.dao.entity.product.Brand#181]
+7834554 DEBUG [2015-06-16 17:46:04]  resolving associations for [com.tisson.dao.entity.product.Brand#182]
+7834554 DEBUG [2015-06-16 17:46:04]  done materializing entity [com.tisson.dao.entity.product.Brand#182]
+7834554 DEBUG [2015-06-16 17:46:04]  initializing non-lazy collections
+7834554 DEBUG [2015-06-16 17:46:04]  aggressively releasing JDBC connection
+7834554 DEBUG [2015-06-16 17:46:04]  Closing JPA EntityManager
+7834554 DEBUG [2015-06-16 17:46:04]  Creating new EntityManager for shared EntityManager invocation
+7834555 DEBUG [2015-06-16 17:46:04]  opened session at timestamp: 14344479644
+7834555 DEBUG [2015-06-16 17:46:04]  about to open PreparedStatement (open PreparedStatements: 0, globally: 0)
+7834555 DEBUG [2015-06-16 17:46:04]  opening JDBC connection
+7834555 DEBUG [2015-06-16 17:46:04]  000523 (01/03/00) - Connection #7 served
+7834555 DEBUG [2015-06-16 17:46:04]  
+    select
+        count(brand0_.brand_id) as col_0_0_ 
+    from
+        gomeisp.brand brand0_ limit ?
+7834556 DEBUG [2015-06-16 17:46:04]  select count(brand0_.brand_id) as col_0_0_ from gomeisp.brand brand0_ limit 2;  (1 milliseconds)
+7834556 DEBUG [2015-06-16 17:46:04]  about to open ResultSet (open ResultSets: 0, globally: 0)
+7834556 DEBUG [2015-06-16 17:46:04]  result row: 
+7834556 DEBUG [2015-06-16 17:46:04]  about to close ResultSet (open ResultSets: 1, globally: 1)
+7834556 DEBUG [2015-06-16 17:46:04]  about to close PreparedStatement (open PreparedStatements: 1, globally: 1)
+7834556 DEBUG [2015-06-16 17:46:04]  aggressively releasing JDBC connection
+7834556 DEBUG [2015-06-16 17:46:04]  releasing JDBC connection [ (open PreparedStatements: 0, globally: 0) (open ResultSets: 0, globally: 0)]
+7834556 DEBUG [2015-06-16 17:46:04]  000523 (00/03/00) - Connection #7 returned (now AVAILABLE)
+7834556 DEBUG [2015-06-16 17:46:04]  initializing non-lazy collections
+7834556 DEBUG [2015-06-16 17:46:04]  aggressively releasing JDBC connection
+7834556 DEBUG [2015-06-16 17:46:04]  Closing JPA EntityManager
+7834584 DEBUG [2015-06-16 17:46:04]  Null ModelAndView returned to DispatcherServlet with name 'spring3': assuming HandlerAdapter completed request handling
+7834584 DEBUG [2015-06-16 17:46:04]  Successfully completed request
+7834619 DEBUG [2015-06-16 17:46:04]  DispatcherServlet with name 'spring3' processing GET request for [/sysadm/suppliers/suppliersList.do]
+7834620 DEBUG [2015-06-16 17:46:04]  Mapping [/sysadm/suppliers/suppliersList.do] to HandlerExecutionChain with handler [com.tisson.web.controller.product.SuppliersController@4b8267c7] and 1 interceptor
+7834620 DEBUG [2015-06-16 17:46:04]  Last-Modified value for [/sysadm/suppliers/suppliersList.do] is: -1
+7834620 DEBUG [2015-06-16 17:46:04]  Invoking request handler method: public org.springframework.web.servlet.ModelAndView com.tisson.web.controller.product.SuppliersController.productList(javax.servlet.http.HttpServletRequest,java.lang.String,javax.servlet.http.HttpServletResponse)
+7834620 INFO  [2015-06-16 17:46:04]  jpql:select o from Suppliers o 
+7834620 DEBUG [2015-06-16 17:46:04]  Creating new EntityManager for shared EntityManager invocation
+7834621 DEBUG [2015-06-16 17:46:04]  opened session at timestamp: 14344479645
+7834621 DEBUG [2015-06-16 17:46:04]  about to open PreparedStatement (open PreparedStatements: 0, globally: 0)
+7834621 DEBUG [2015-06-16 17:46:04]  opening JDBC connection
+7834621 DEBUG [2015-06-16 17:46:04]  000524 (01/03/00) - Connection #8 served
+7834621 DEBUG [2015-06-16 17:46:04]  
+    select
+        suppliers0_.suppliers_id as suppliers1_36_,
+        suppliers0_.is_check as is2_36_,
+        suppliers0_.suppliers_desc as suppliers3_36_,
+        suppliers0_.suppliers_name as suppliers4_36_ 
+    from
+        gomeisp.suppliers suppliers0_
+7834622 DEBUG [2015-06-16 17:46:04]  select suppliers0_.suppliers_id as suppliers1_36_, suppliers0_.is_check as is2_36_, suppliers0_.suppliers_desc as suppliers3_36_, suppliers0_.suppliers_name as suppliers4_36_ from gomeisp.suppliers suppliers0_;  (1 milliseconds)
+7834622 DEBUG [2015-06-16 17:46:04]  about to open ResultSet (open ResultSets: 0, globally: 0)
+7834622 DEBUG [2015-06-16 17:46:04]  result row: EntityKey[com.tisson.dao.entity.product.Suppliers#1]
+7834622 DEBUG [2015-06-16 17:46:04]  result row: EntityKey[com.tisson.dao.entity.product.Suppliers#2]
+7834622 DEBUG [2015-06-16 17:46:04]  about to close ResultSet (open ResultSets: 1, globally: 1)
+7834622 DEBUG [2015-06-16 17:46:04]  about to close PreparedStatement (open PreparedStatements: 1, globally: 1)
+7834622 DEBUG [2015-06-16 17:46:04]  aggressively releasing JDBC connection
+7834622 DEBUG [2015-06-16 17:46:04]  releasing JDBC connection [ (open PreparedStatements: 0, globally: 0) (open ResultSets: 0, globally: 0)]
+7834623 DEBUG [2015-06-16 17:46:04]  000524 (00/03/00) - Connection #8 returned (now AVAILABLE)
+7834623 DEBUG [2015-06-16 17:46:04]  resolving associations for [com.tisson.dao.entity.product.Suppliers#1]
+7834623 DEBUG [2015-06-16 17:46:04]  done materializing entity [com.tisson.dao.entity.product.Suppliers#1]
+7834623 DEBUG [2015-06-16 17:46:04]  resolving associations for [com.tisson.dao.entity.product.Suppliers#2]
+7834623 DEBUG [2015-06-16 17:46:04]  done materializing entity [com.tisson.dao.entity.product.Suppliers#2]
+7834623 DEBUG [2015-06-16 17:46:04]  initializing non-lazy collections
+7834623 DEBUG [2015-06-16 17:46:04]  aggressively releasing JDBC connection
+7834623 DEBUG [2015-06-16 17:46:04]  Closing JPA EntityManager
+7834623 DEBUG [2015-06-16 17:46:04]  Creating new EntityManager for shared EntityManager invocation
+7834623 DEBUG [2015-06-16 17:46:04]  opened session at timestamp: 14344479645
+7834623 DEBUG [2015-06-16 17:46:04]  about to open PreparedStatement (open PreparedStatements: 0, globally: 0)
+7834623 DEBUG [2015-06-16 17:46:04]  opening JDBC connection
+7834624 DEBUG [2015-06-16 17:46:04]  000525 (01/03/00) - Connection #9 served
+7834624 DEBUG [2015-06-16 17:46:04]  
+    select
+        count(suppliers0_.suppliers_id) as col_0_0_ 
+    from
+        gomeisp.suppliers suppliers0_ limit ?
+7834625 DEBUG [2015-06-16 17:46:04]  select count(suppliers0_.suppliers_id) as col_0_0_ from gomeisp.suppliers suppliers0_ limit 2;  (1 milliseconds)
+7834625 DEBUG [2015-06-16 17:46:04]  about to open ResultSet (open ResultSets: 0, globally: 0)
+7834625 DEBUG [2015-06-16 17:46:04]  result row: 
+7834625 DEBUG [2015-06-16 17:46:04]  about to close ResultSet (open ResultSets: 1, globally: 1)
+7834625 DEBUG [2015-06-16 17:46:04]  about to close PreparedStatement (open PreparedStatements: 1, globally: 1)
+7834625 DEBUG [2015-06-16 17:46:04]  aggressively releasing JDBC connection
+7834625 DEBUG [2015-06-16 17:46:04]  releasing JDBC connection [ (open PreparedStatements: 0, globally: 0) (open ResultSets: 0, globally: 0)]
+7834625 DEBUG [2015-06-16 17:46:04]  000525 (00/03/00) - Connection #9 returned (now AVAILABLE)
+7834625 DEBUG [2015-06-16 17:46:04]  initializing non-lazy collections
+7834625 DEBUG [2015-06-16 17:46:04]  aggressively releasing JDBC connection
+7834625 DEBUG [2015-06-16 17:46:04]  Closing JPA EntityManager
+7834626 DEBUG [2015-06-16 17:46:04]  Null ModelAndView returned to DispatcherServlet with name 'spring3': assuming HandlerAdapter completed request handling
+7834626 DEBUG [2015-06-16 17:46:04]  Successfully completed request
+7841336 DEBUG [2015-06-16 17:46:11]  000525 (00/03/00) - House keeping triggerSweep done
+7861338 DEBUG [2015-06-16 17:46:31]  000525 (00/03/00) - House keeping triggerSweep done
+7881339 DEBUG [2015-06-16 17:46:51]  000525 (00/03/00) - House keeping triggerSweep done
+7901341 DEBUG [2015-06-16 17:47:11]  000525 (00/03/00) - House keeping triggerSweep done
+7921342 DEBUG [2015-06-16 17:47:31]  000525 (00/03/00) - House keeping triggerSweep done
+7941343 DEBUG [2015-06-16 17:47:51]  000525 (00/03/00) - House keeping triggerSweep done
+7961344 DEBUG [2015-06-16 17:48:11]  000525 (00/03/00) - House keeping triggerSweep done
+7981345 DEBUG [2015-06-16 17:48:31]  000525 (00/03/00) - House keeping triggerSweep done
+8001346 DEBUG [2015-06-16 17:48:51]  000525 (00/03/00) - House keeping triggerSweep done
+8021347 DEBUG [2015-06-16 17:49:11]  000525 (00/03/00) - House keeping triggerSweep done
+8041349 DEBUG [2015-06-16 17:49:31]  000525 (00/03/00) - House keeping triggerSweep done
+8061350 DEBUG [2015-06-16 17:49:51]  000525 (00/03/00) - House keeping triggerSweep done
+8081352 DEBUG [2015-06-16 17:50:11]  000525 (00/03/00) - House keeping triggerSweep done
+8101353 DEBUG [2015-06-16 17:50:31]  000525 (00/03/00) - House keeping triggerSweep done
+8121354 DEBUG [2015-06-16 17:50:51]  000525 (00/03/00) - House keeping triggerSweep done
+8141355 DEBUG [2015-06-16 17:51:11]  000525 (00/03/00) - House keeping triggerSweep done
+8161357 DEBUG [2015-06-16 17:51:31]  000525 (00/03/00) - House keeping triggerSweep done
+8181359 DEBUG [2015-06-16 17:51:51]  000525 (00/03/00) - House keeping triggerSweep done
+8201360 DEBUG [2015-06-16 17:52:11]  000525 (00/03/00) - House keeping triggerSweep done
+8221361 DEBUG [2015-06-16 17:52:31]  000525 (00/03/00) - House keeping triggerSweep done
+8241362 DEBUG [2015-06-16 17:52:51]  000525 (00/03/00) - House keeping triggerSweep done
+8261363 DEBUG [2015-06-16 17:53:11]  000525 (00/03/00) - House keeping triggerSweep done
+8281364 DEBUG [2015-06-16 17:53:31]  000525 (00/03/00) - House keeping triggerSweep done
+8301365 DEBUG [2015-06-16 17:53:51]  000525 (00/03/00) - House keeping triggerSweep done
+8321368 DEBUG [2015-06-16 17:54:11]  000525 (00/03/00) - House keeping triggerSweep done
+8341369 DEBUG [2015-06-16 17:54:31]  000525 (00/03/00) - House keeping triggerSweep done
+8361370 DEBUG [2015-06-16 17:54:51]  000525 (00/03/00) - House keeping triggerSweep done
+8381371 DEBUG [2015-06-16 17:55:11]  000525 (00/03/00) - House keeping triggerSweep done
+8401374 DEBUG [2015-06-16 17:55:31]  000525 (00/03/00) - House keeping triggerSweep done
+8421375 DEBUG [2015-06-16 17:55:51]  000525 (00/03/00) - House keeping triggerSweep done
+8441376 DEBUG [2015-06-16 17:56:11]  000525 (00/03/00) - House keeping triggerSweep done
+8461378 DEBUG [2015-06-16 17:56:31]  000525 (00/03/00) - House keeping triggerSweep done
+8481379 DEBUG [2015-06-16 17:56:51]  000525 (00/03/00) - House keeping triggerSweep done
+8501381 DEBUG [2015-06-16 17:57:11]  000525 (00/03/00) - House keeping triggerSweep done
+8521383 DEBUG [2015-06-16 17:57:31]  000525 (00/03/00) - House keeping triggerSweep done
+8541384 DEBUG [2015-06-16 17:57:51]  000525 (00/03/00) - House keeping triggerSweep done
+8561385 DEBUG [2015-06-16 17:58:11]  000525 (00/03/00) - House keeping triggerSweep done
+8581386 DEBUG [2015-06-16 17:58:31]  000525 (00/03/00) - House keeping triggerSweep done
+8601388 DEBUG [2015-06-16 17:58:51]  000525 (00/03/00) - House keeping triggerSweep done
+8621389 DEBUG [2015-06-16 17:59:11]  000525 (00/03/00) - House keeping triggerSweep done
+8641390 DEBUG [2015-06-16 17:59:31]  000525 (00/03/00) - House keeping triggerSweep done
+8661391 DEBUG [2015-06-16 17:59:51]  000525 (00/03/00) - House keeping triggerSweep done
+8681392 DEBUG [2015-06-16 18:00:11]  000525 (00/03/00) - House keeping triggerSweep done
+8701393 DEBUG [2015-06-16 18:00:31]  000525 (00/03/00) - House keeping triggerSweep done
+8721395 DEBUG [2015-06-16 18:00:51]  000525 (00/03/00) - House keeping triggerSweep done
+8741403 DEBUG [2015-06-16 18:01:11]  000525 (00/03/00) - House keeping triggerSweep done
+8761405 DEBUG [2015-06-16 18:01:31]  000525 (00/03/00) - House keeping triggerSweep done
+8781426 DEBUG [2015-06-16 18:01:51]  000525 (00/03/00) - House keeping triggerSweep done
+8801427 DEBUG [2015-06-16 18:02:11]  000525 (00/03/00) - House keeping triggerSweep done
+8821429 DEBUG [2015-06-16 18:02:31]  000525 (00/03/00) - House keeping triggerSweep done
+8841438 DEBUG [2015-06-16 18:02:51]  000525 (00/03/00) - House keeping triggerSweep done
+8861439 DEBUG [2015-06-16 18:03:11]  000525 (00/03/00) - House keeping triggerSweep done
+8881442 DEBUG [2015-06-16 18:03:31]  000525 (00/03/00) - House keeping triggerSweep done
+8901443 DEBUG [2015-06-16 18:03:51]  000525 (00/03/00) - House keeping triggerSweep done
+8921446 DEBUG [2015-06-16 18:04:11]  000525 (00/03/00) - House keeping triggerSweep done
+8941450 DEBUG [2015-06-16 18:04:31]  000525 (00/03/00) - House keeping triggerSweep done
+8961452 DEBUG [2015-06-16 18:04:51]  000525 (00/03/00) - House keeping triggerSweep done
+8981453 DEBUG [2015-06-16 18:05:11]  000525 (00/03/00) - House keeping triggerSweep done

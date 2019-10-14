@@ -1,0 +1,30 @@
+十月 13, 2019 5:40:08 下午 org.apache.catalina.core.ApplicationContext log
+信息: ContextListener: contextInitialized()
+十月 13, 2019 5:40:08 下午 org.apache.catalina.core.ApplicationContext log
+信息: SessionListener: contextInitialized()
+十月 13, 2019 5:40:08 下午 org.apache.catalina.core.ApplicationContext log
+信息: ContextListener: attributeAdded('org.apache.jasper.compiler.TldLocationsCache', 'org.apache.jasper.compiler.TldLocationsCache@6c5094ec')
+十月 13, 2019 5:40:08 下午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing log4j system
+十月 13, 2019 5:40:09 下午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing Spring root WebApplicationContext
+十月 13, 2019 5:40:58 下午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing Spring sub WebApplicationContext: home
+十月 13, 2019 5:41:00 下午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing Spring sub WebApplicationContext: personal
+十月 13, 2019 5:41:03 下午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing Spring sub WebApplicationContext: sysmanage
+十月 13, 2019 5:41:04 下午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing Spring sub WebApplicationContext: sysinfo
+十月 13, 2019 5:41:06 下午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing Spring sub WebApplicationContext: governance
+十月 13, 2019 5:41:07 下午 org.apache.catalina.core.ApplicationContext log
+信息: WebxComponents: initialization completed
+十月 13, 2019 5:41:07 下午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing filter: mdc
+十月 13, 2019 5:41:07 下午 org.apache.catalina.core.ApplicationContext log
+信息: SetLoggingContextFilter - mdc: initialization completed
+十月 13, 2019 5:41:07 下午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing filter: webx
+十月 13, 2019 5:41:07 下午 org.apache.catalina.core.ApplicationContext log
+信息: WebxFrameworkFilter - webx: initialization completed
