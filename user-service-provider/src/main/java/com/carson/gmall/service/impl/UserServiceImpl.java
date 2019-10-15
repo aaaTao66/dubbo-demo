@@ -1,7 +1,7 @@
 package com.carson.gmall.service.impl;
 
 import com.carson.gmall.bean.UserAddress;
-import service.UserService;
+import com.carson.gmall.service.UserService;
 
 import java.util.Arrays;
 import java.util.List;

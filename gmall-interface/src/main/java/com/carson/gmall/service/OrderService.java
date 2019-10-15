@@ -1,9 +1,10 @@
-package service;
+package com.carson.gmall.service;
+
 
 public interface OrderService {
 
     /**
      *  初始化订单
      * */
-    public void initOrder(String userId);
+    void initOrder(String userId);
 }
