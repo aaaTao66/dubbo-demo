@@ -2,34 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bd533e8b-712a-4115-93c3-d7fd2a1f6cbf" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/gmall_interface_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/gmall_interface_war_exploded.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gmall-interface/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gmall-interface/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gmall-interface/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gmall-interface/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gmall-interface/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gmall-interface/gmall-interface.iml" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-interface/gmall-interface.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gmall-interface/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-interface/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gmall-interface/src/main/java/bean/UserAddress.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gmall-interface/src/main/java/service/OrderService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gmall-interface/src/main/java/service/UserService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gmall-interface/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gmall-interface/src/main/webapp/index.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gmall-interface/target/classes/com/carson/gmall/bean/UserAddress.class" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-interface/target/classes/com/carson/gmall/bean/UserAddress.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gmall-interface/target/classes/service/OrderService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gmall-interface/target/classes/service/UserService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/order-service-consumer/order-service-consumer.iml" beforeDir="false" afterPath="$PROJECT_DIR$/order-service-consumer/order-service-consumer.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/order-service-consumer/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/order-service-consumer/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/order-service-consumer/src/main/java/com/carson/gmall/service/impl/OrderServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/order-service-consumer/src/main/java/com/carson/gmall/service/impl/OrderServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/user-service-provider/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/user-service-provider/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/user-service-provider/src/main/java/com/carson/gmall/service/impl/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-service-provider/src/main/java/com/carson/gmall/service/impl/UserServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-service-consumer/src/main/resources/consumer.xml" beforeDir="false" afterPath="$PROJECT_DIR$/order-service-consumer/src/main/resources/consumer.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/user-service-provider/src/main/resources/provider.xml" beforeDir="false" afterPath="$PROJECT_DIR$/user-service-provider/src/main/resources/provider.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/user-service-provider/target/classes/com/carson/gmall/service/impl/UserServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/user-service-provider/target/classes/com/carson/gmall/service/impl/UserServiceImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/user-service-provider/user-service-provider.iml" beforeDir="false" afterPath="$PROJECT_DIR$/user-service-provider/user-service-provider.iml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/gmall-interface/target/" />
@@ -44,14 +19,32 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/order-service-consumer/src/main/java/com/carson/gmall/Consumer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="11" column="53" selection-start-line="11" selection-start-column="53" selection-end-line="11" selection-end-column="53" />
+            <state relative-caret-position="320">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/order-service-consumer/src/main/resources/consumer.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="500">
+              <caret line="25" selection-start-line="25" selection-end-line="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/user-service-provider/src/main/resources/provider.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="438">
+              <caret line="26" column="24" lean-forward="true" selection-start-line="26" selection-start-column="24" selection-end-line="26" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -60,28 +53,7 @@
         <entry file="file://$PROJECT_DIR$/user-service-provider/src/main/java/com/carson/gmall/Provider.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="180">
-              <caret line="9" column="35" lean-forward="true" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/user-service-provider/src/main/resources/provider.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="21" column="66" selection-start-line="21" selection-start-column="66" selection-end-line="21" selection-end-column="66" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/user-service-provider/src/main/java/com/carson/gmall/service/impl/UserServiceImpl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="12">
-              <caret line="8" column="51" selection-start-line="8" selection-start-column="51" selection-end-line="8" selection-end-column="51" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+              <caret line="9" column="35" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -121,14 +93,14 @@
         <option value="$PROJECT_DIR$/user-service-consumer/src/main/java/com/carson/gmall/service/impl/OrderServiceImpl.java" />
         <option value="$PROJECT_DIR$/order-service-consumer/pom.xml" />
         <option value="$PROJECT_DIR$/order-service-consumer/src/main/java/com/carson/gmall/impl/OrderServiceImpl.java" />
-        <option value="$PROJECT_DIR$/order-service-consumer/src/main/java/com/carson/gmall/Consumer.java" />
         <option value="$PROJECT_DIR$/gmall-interface/src/main/java/com/carson/gmall/service/UserService.java" />
         <option value="$PROJECT_DIR$/gmall-interface/pom.xml" />
         <option value="$PROJECT_DIR$/gmall-interface/src/main/java/com/carson/gmall/service/OrderService.java" />
         <option value="$PROJECT_DIR$/gmall-interface/src/main/java/com/carson/gmall/bean/UserAddress.java" />
-        <option value="$PROJECT_DIR$/order-service-consumer/src/main/resources/consumer.xml" />
         <option value="$PROJECT_DIR$/order-service-consumer/src/main/java/com/carson/gmall/service/impl/OrderServiceImpl.java" />
         <option value="$PROJECT_DIR$/user-service-provider/src/main/java/com/carson/gmall/service/impl/UserServiceImpl.java" />
+        <option value="$PROJECT_DIR$/order-service-consumer/src/main/java/com/carson/gmall/Consumer.java" />
+        <option value="$PROJECT_DIR$/order-service-consumer/src/main/resources/consumer.xml" />
         <option value="$PROJECT_DIR$/user-service-provider/src/main/resources/provider.xml" />
       </list>
     </option>
@@ -163,50 +135,12 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="dubbo-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="order-service-consumer" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dubbo-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="order-service-consumer" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dubbo-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="order-service-consumer" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dubbo-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="order-service-consumer" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dubbo-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="order-service-consumer" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="gmall" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dubbo-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="order-service-consumer" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="gmall" type="462c0819:PsiDirectoryNode" />
-              <item name="impl" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dubbo-demo" type="b2602c69:ProjectViewProjectNode" />
               <item name="user-service-provider" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -234,28 +168,11 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="gmall" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dubbo-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="user-service-provider" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="gmall" type="462c0819:PsiDirectoryNode" />
-              <item name="impl" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dubbo-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="user-service-provider" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -339,11 +256,12 @@
       <workItem from="1571039276153" duration="5113000" />
       <workItem from="1571044590985" duration="3340000" />
       <workItem from="1571048019706" duration="369000" />
+      <workItem from="1571130887794" duration="1002000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8822000" />
+    <option name="totallyTimeSpent" value="9824000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -356,8 +274,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1735925" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17560321" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -365,7 +284,7 @@
       <window_info id="Web" order="5" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.7122708" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49840087" visible="true" weight="0.8448519" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49840087" weight="0.42454162" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49969193" weight="0.70239776" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -432,13 +351,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/order-service-consumer/src/main/resources/consumer.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="14" column="69" selection-start-line="14" selection-start-column="69" selection-end-line="14" selection-end-column="69" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/order-service-consumer/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -486,7 +398,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/user-service-provider/src/main/java/com/carson/gmall/service/impl/UserServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="12">
+        <state relative-caret-position="160">
           <caret line="8" column="51" selection-start-line="8" selection-start-column="51" selection-end-line="8" selection-end-column="51" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -494,27 +406,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/user-service-provider/src/main/resources/provider.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="21" column="66" selection-start-line="21" selection-start-column="66" selection-end-line="21" selection-end-column="66" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/user-service-provider/src/main/java/com/carson/gmall/Provider.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
-          <caret line="9" column="35" lean-forward="true" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
+          <caret line="9" column="35" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/order-service-consumer/src/main/java/com/carson/gmall/Consumer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="11" column="53" selection-start-line="11" selection-start-column="53" selection-end-line="11" selection-end-column="53" />
+        <state relative-caret-position="320">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/order-service-consumer/src/main/resources/consumer.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="25" selection-start-line="25" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user-service-provider/src/main/resources/provider.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="438">
+          <caret line="26" column="24" lean-forward="true" selection-start-line="26" selection-start-column="24" selection-end-line="26" selection-end-column="24" />
         </state>
       </provider>
     </entry>
