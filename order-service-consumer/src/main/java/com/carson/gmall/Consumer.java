@@ -1,9 +1,7 @@
 package com.carson.gmall;
 
-import com.carson.gmall.service.OrderService;
+import com.carson.gmall.bootuserserviceprovider.service.OrderService;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
-
-import java.io.IOException;
 
 public class Consumer {
 

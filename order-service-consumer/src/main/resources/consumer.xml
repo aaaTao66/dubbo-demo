@@ -12,7 +12,7 @@
 ">
 
 
-    <context:component-scan base-package="com.carson.gmall.service.impl"/>
+    <context:component-scan base-package="com.carson.gmall.bootuserserviceprovider.service.impl"/>
 
     <!-- 消费方应用名，用于计算依赖关系，不是匹配条件，不要与提供方一样 -->
     <dubbo:application name="order-service-consumer"  />
@@ -21,7 +21,7 @@
     <dubbo:registry address="zookeeper://127.0.0.1:2181" />
 
     <!-- 生成远程服务代理，可以和本地bean一样使用demoService -->
-    <dubbo:reference id="userService" interface="com.carson.gmall.service.UserService" />
+    <dubbo:reference id="userService" interface="com.carson.gmall.bootuserserviceprovider.service.UserService" />
 
     <dubbo:monitor protocol="registry"/>
 </beans>
